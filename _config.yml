@@ -20,7 +20,7 @@ description: "Be the first to hear news that will change your life." # This will
 #########################################################################################
 theme: "minima"
 
-rss: rss
+
 
 kramdown:
   syntax_highlighter_opts:
