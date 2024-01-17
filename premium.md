@@ -1,4 +1,4 @@
-Premium Memberships
+**Premium Memberships**
 
 **Basic**
 The package for newcomers <br>
