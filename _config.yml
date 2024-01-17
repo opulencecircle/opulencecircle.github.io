@@ -5,7 +5,7 @@ description: "Be the first to hear news that will change your life." # This will
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 #email: "example@mail.com"
-#twitter_username: "opulencecircle"
+twitter_username: "opulencecircle"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
@@ -27,7 +27,7 @@ kramdown:
     disable: true
     
 plugins:
-  
+  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
