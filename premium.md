@@ -2,7 +2,7 @@
 
 **Weekly**
 The weekly package for essential news <br>
-~~$5,99~~ **$3,99**
+~~$4,99~~ **$2,99**
 <button name="button" class="weekly-package">Select</button>
 
 <hr>
