@@ -1,27 +1,34 @@
 **Premium Memberships**
 
-**Basic**
-The package for newcomers <br>
+**Weekly**
+The weekly package for essential news <br>
 ~~$5,99~~ **$3,99**
-<button name="button">Select</button>
+<button name="button" class="weekly-package">Select</button>
+
+<hr>
+
+**Basic**
+The monthly package for newcomers <br>
+~~$5,99~~ **$3,99**
+<button name="button" class="basic-package">Select</button>
 
 <hr>
 
 **Ultra**
-For advanced and more frequent news<br>
+For advanced and more frequent monthly news<br>
 ~~$13,99~~ **$8,99**
-<button name="button">Select</button>
+<button name="button" class="ultra-package">Select</button>
 
 <hr>
 
 **One-off**
 Did you miss the important news earlier?<br>
 ~~$159,99~~ **$59,99**
-<button name="button">Select</button>
+<button name="button" class="oneoff-package">Select</button>
 
 <hr>
 
 **Lifetime**
-One-time payment for everything<br>
+One-time payment for all past and future posts<br>
 ~~$359,99~~ **$99,99**
-<button name="button">Select</button>
+<button name="button" class="lifetime-package">Select</button>
