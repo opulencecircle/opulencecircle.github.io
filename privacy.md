@@ -7,6 +7,7 @@
 <p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
 <h3>Definitions</h3>
 <p>For the purposes of this Privacy Policy:</p>
+
 <ul>
 <li>
 <p><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>
