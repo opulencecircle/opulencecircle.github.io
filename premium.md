@@ -32,3 +32,8 @@ Did you miss the important news earlier?<br>
 One-time payment for all past and future posts<br>
 ~~$359,99~~ **$99,99**
 <button name="button" class="lifetime-package">Select</button>
+
+<hr>
+
+**Restore Purchases**
+<button name="button" class="restore-purchase">Restore Now</button>
