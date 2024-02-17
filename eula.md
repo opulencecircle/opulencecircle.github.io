@@ -80,5 +80,5 @@ The Company may, in its sole discretion, at any time and for any or no reason, s
 <h2>Contact Us</h2>
 <p>If you have any questions about this Agreement, You can contact Us:</p>
 <ul>
-<li>By visiting this page on our website: <a href="opulencecircle.online/contact" rel="external nofollow noopener" target="_blank">opulencecircle.online/contact</a></li>
+<li>By visiting this page on our website: <a href="https://opulencecircle.online/contact" rel="external nofollow noopener" target="_blank">opulencecircle.online/contact</a></li>
 </ul>
