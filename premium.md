@@ -34,6 +34,6 @@ One-time payment for all past and future posts<br>
 <button name="button" class="lifetime-package">Select</button>
 
 <hr>
-
-**Restore Purchases**
+<br>
+**Restore Purchases**<br>
 <button name="button" class="restore-purchase">Restore Now</button>
