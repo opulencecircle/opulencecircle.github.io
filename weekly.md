@@ -1,4 +1,4 @@
-Weekly Premium Content
+**Weekly Premium Content**
 
 **19/02/2024**
 
