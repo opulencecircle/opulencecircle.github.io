@@ -1,4 +1,4 @@
-**Lifetime membership**
+**Lifetime Premium Content**
 
 February 2024 Market Summary <br>
 Russian forces occupy Ukranian city of Avdiivka, defense ministry says
