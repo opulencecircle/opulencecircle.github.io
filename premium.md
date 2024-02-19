@@ -21,13 +21,6 @@ For advanced and more frequent monthly news<br>
 
 <hr>
 
-**One-off**
-Did you miss the important news earlier?<br>
-~~$159,99~~ **$59,99**
-<button name="button" class="oneoff-package">Select</button>
-
-<hr>
-
 **Lifetime**
 One-time payment for all past and future posts<br>
 ~~$359,99~~ **$99,99**
