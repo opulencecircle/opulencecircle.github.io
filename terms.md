@@ -51,6 +51,8 @@
 <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.</p>
 <p>The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
 <p>We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.</p>
+<h2>Subscription Packages</h2>
+<p>Packages are named: Weekly, Basic, Ultra and Lifetime. Weekly package gives you access to the important content and renewed every week. Basic package gives you access to more content and renewed monthly. Ultra package gives you access to all the content to be shared  with more details and quality and renewed monthly. Lifetime package gives you Ultra package access and all past content that has been shared and renews yearly.</p>
 <h2>Termination</h2>
 <p>We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.</p>
 <p>Upon termination, Your right to use the Service will cease immediately.</p>
