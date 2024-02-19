@@ -1,3 +1,4 @@
-## Our first blog post
+## Opulence News App Release :bowtie:
 
-Our IOS app will be ready soon. Stay tuned...
+We can't wait to serve you with the most recent and reliable news.
+Stay tuned and subscribe in our IOS app to have even more advantage.
