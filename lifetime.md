@@ -1,6 +1,6 @@
 **Lifetime membership**
 
-February 2024 Market Summary
+February 2024 Market Summary <br>
 Russian forces occupy Ukranian city of Avdiivka, defense ministry says
 Russian Defense Minister Sergei Shoigu told the Kremlin that Russian forces were now working to clear the final pockets of resistance at the Avdiivka Coke and Chemical Plant.
 WORLD
@@ -41,7 +41,7 @@ Prince Harry said he was "grateful" to be able visit his father King Charles in 
 
 -------
 
-January 2024 Market Summary
+<br>January 2024 Market Summary<br>
 US stocks posted modest gains to start the year. The Dow Jones Industrial Average rose 1.3%, the S&P 500 advanced
 1.7%, and the NASDAQ added 1.0%. Large-caps fared better than Small-caps in January–the Russell 1000 index increased 1.4%, while
 the Russell 2000 dropped 3.9%. Growth outperformed value within both indices.
