@@ -7,5 +7,4 @@ Invest or build your own financial strategy at your own risk.
 <a href="https://opulencecircle.online/privacy" rel="external nofollow noopener" target="_blank">Privacy Policy</a>
 <br>
 <a href="https://opulencecircle.online/terms" rel="external nofollow noopener" target="_blank">Terms of Service</a>
-<br>
-<a href="https://opulencecircle.online/eula" rel="external nofollow noopener" target="_blank">EULA</a>
+
