@@ -30,3 +30,6 @@ One-time payment for all past and future posts<br>
 <br>
 **Restore Purchases**<br>
 <button name="button" class="restore-purchase">Restore Now</button>
+<hr>
+<br>
+<a href="https://opulencecircle.online/terms" rel="external nofollow noopener" target="_blank">Terms of Service</a>
